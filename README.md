@@ -1,1 +1,1 @@
-# RockPaperScissors
+# A game of RockPaperScissors
